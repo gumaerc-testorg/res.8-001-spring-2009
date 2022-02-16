@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Other Publications
 uid: 67a3ef1f-0e3b-a873-11f9-3fb9ee2e9ecb
 ---
