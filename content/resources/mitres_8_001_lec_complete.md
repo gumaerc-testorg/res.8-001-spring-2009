@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: 232f289f-a399-8a5a-9e87-3062f8752077
 resourcetype: Document
 title: Applied Geometric Algebra Text
 uid: 95490d4f-704f-abc7-8296-3546923670e1
