@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-8-001-applied-geometric-algebra-spring-2009/f23873b0409cedf594430da59f53a884_APS_article.pdf
+file: /courses/res-8-001-applied-geometric-algebra-spring-2009/f23873b0409cedf594430da59f53a884_APS_article.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Other Publications
 parent_type: SupplementalResourceSection
