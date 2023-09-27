@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Lecture Notes Contents: Chapter 1: Introduction, Chapter 2: Algebraic
+  Preliminaries, Chapter 3: The Lorentz Group and the Pauli Algebra, Chapter 4: Pauli
+  Algebra and Electrodynamics, Chapter 5: Spinor Calculus, Supplementary Material
+  on the Pauli Algebra, Homework Assignments, and References.'
 learning_resource_types:
 - Lecture Notes
 ocw_type: SupplementalResourceSection
@@ -7,10 +11,10 @@ title: Lecture Notes
 uid: 232f289f-a399-8a5a-9e87-3062f8752077
 ---
 
-The complete set of lecture notes is also available as a single file. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7MB]({{< baseurl >}}/resources/mitres_8_001_lec_complete))
+The complete set of lecture notes is also available as a single file. ({{% resource_link 95490d4f-704f-abc7-8296-3546923670e1 "PDF - 2.7MB" %}})
 
-*   Table of Contents ([PDF]({{< baseurl >}}/resources/toc))
-*   Preface by Samuel Gasster ([PDF]({{< baseurl >}}/resources/preface))
+*   Table of Contents ({{% resource_link 6c33b473-02a7-df38-d92c-e05b525524fd "PDF" %}})
+*   Preface by Samuel Gasster ({{% resource_link 9b8808fb-5426-813a-f1c8-6240f18e75c3 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -24,13 +28,13 @@ Lecture Notes CONTENTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**Chapter 1: Introduction ([PDF]({{< baseurl >}}/resources/introduction))**
+**Chapter 1: Introduction ({{% resource_link fa3d62c7-8513-1f5a-e638-4f8c37087aca "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**Chapter 2: Algebraic Preliminaries ([PDF]({{< baseurl >}}/resources/ch2))**
+**Chapter 2: Algebraic Preliminaries ({{% resource_link a00182ab-ec44-dd7a-50fb-09a4201212fb "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +52,7 @@ Lecture Notes CONTENTS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**Chapter 3: The Lorentz Group and the Pauli Algebra ([PDF]({{< baseurl >}}/resources/ch3))**
+**Chapter 3: The Lorentz Group and the Pauli Algebra ({{% resource_link f8923424-9040-f354-c7af-facb8881d48b "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +67,7 @@ Lecture Notes CONTENTS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**Chapter 4: Pauli Algebra and Electrodynamics ([PDF]({{< baseurl >}}/resources/ch4))**
+**Chapter 4: Pauli Algebra and Electrodynamics ({{% resource_link b54c2d79-22fb-b49a-2084-6503496c2835 "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Lecture Notes CONTENTS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**Chapter 5: Spinor Calculus** **([PDF]({{< baseurl >}}/resources/ch5))**
+**Chapter 5: Spinor Calculus** **({{% resource_link 41b91d02-12d8-df6f-1087-4aa8a36496f6 "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +96,7 @@ Lecture Notes CONTENTS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**Supplementary Material on the Pauli Algebra ([PDF]({{< baseurl >}}/resources/cha))**
+**Supplementary Material on the Pauli Algebra ({{% resource_link 15233e0e-a775-3323-2090-2100c5cbfe40 "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,13 +112,13 @@ A.5 On Parameterization and Integration
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**Homework Assignments ([PDF]({{< baseurl >}}/resources/chb))**
+**Homework Assignments ({{% resource_link 46ecbe2e-f367-1516-a750-e660f3ab7a3d "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-**References ([PDF]({{< baseurl >}}/resources/ref))**
+**References ({{% resource_link 0ef43e94-4543-cf55-62da-852cf09e76a2 "PDF" %}})**
 {{< tdclose >}}
 
 {{< trclose >}}
