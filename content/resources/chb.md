@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-8-001-applied-geometric-algebra-spring-2009/46ecbe2ef3671516a750e660f3ab7a3d_chB.pdf
+file_size: 179407
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
