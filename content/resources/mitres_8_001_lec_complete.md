@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Applied Geometric Algebra Text with new cover
-file: /ol-ocw-studio-app/courses/res-8-001-applied-geometric-algebra-spring-2009/95490d4f704fabc782963546923670e1_MITRES_8_001_lec_complete.pdf
+file: /courses/res-8-001-applied-geometric-algebra-spring-2009/95490d4f704fabc782963546923670e1_MITRES_8_001_lec_complete.pdf
 file_size: 2860571
 file_type: application/pdf
 learning_resource_types:
