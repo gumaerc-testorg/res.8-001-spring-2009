@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-8-001-applied-geometric-algebra-spring-2009/0ef43e944543cf5562da852cf09e76a2_ref.pdf
+file: /ol-ocw-studio-app/courses/res-8-001-applied-geometric-algebra-spring-2009/0ef43e944543cf5562da852cf09e76a2_ref.pdf
 file_size: 83552
 file_type: application/pdf
 learning_resource_types:
